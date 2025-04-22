@@ -1,0 +1,5 @@
+omni drive in "+" configuration
+4 omni wheels
+MD10A motor driver
+Open CV - haarcascade_frontalface_alt [ML model]
+Arduino Mega
